@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>个人主页</title>
+      <link href="/blog/1/"/>
+      <url>/blog/1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎你来到这里!</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的服务器</title>
+      <link href="/blog/abc/"/>
+      <url>/blog/abc/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>  欢迎来到我的主页，想玩我的我的世界服务器吗？<br>HMCL<br><a class="btn-beautify button--animated " href="https://hmcl.huangyuhui.net/"   title="访问官网"><span>访问官网</span></a><br>JAVA<br><a class="btn-beautify button--animated " href="https://www.java.com/zh-CN/download/manual.jsp"   title="访问官网(java8)"><span>访问官网(java8)</span></a><br><a class="btn-beautify button--animated " href="https://www.oracle.com/java/technologies/downloads/"   title="访问官网(java17、18)"><span>访问官网(java17、18)</span></a><br>我的服务器地址<br>懒狗生存:cn-hn-dx-1.natfrp.cloud:37351<br>自由服务器:cn-hn-dx-1.natfrp.cloud:53478</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试页面</title>
+      <link href="/blog/done/"/>
+      <url>/blog/done/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明shunshun已经死了</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
